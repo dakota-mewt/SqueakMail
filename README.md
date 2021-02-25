@@ -52,7 +52,7 @@ Pseudocode logic:
   * Starts a second timer for how long it's been since the mouse has been trapped
   * Post to IFTTT, you will get an email "Trap has been running for <Trap Timer>. Mouse has been trapped for <Mouse Timer>
 
-# How you can support Mewt
+# How you can support SqueakMail
 <details>
  <summary>Click to expand</summary>
  
