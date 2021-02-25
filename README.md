@@ -77,7 +77,7 @@ Join me on the [SqueakMail Discord](https://discord.gg/9AsQSmHgDM)
 # Acknowledgments
 <details>
  <summary>Click to expand</summary>
-A big thank you to the below:
+A big thank you:
 
 * @plbarrio for 3D [Customizable ESP32 lateral support](https://www.thingiverse.com/thing:3884388)
 * Random Nerd Tutorial for [IFTTT tutorial](https://randomnerdtutorials.com/esp32-http-post-ifttt-thingspeak-arduino/)
