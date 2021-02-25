@@ -1,4 +1,6 @@
 # SqueakMail
+![squeakmail](/images/SqueakMail.png)
+
 Do you use humane (live) mouse traps? Do you hate checking them every day to make sure that a critter isn't dying of thirst/hunger?
 
 For <$10 USD, you can build a SqueakMail to alert you when the trap has been triggered.
