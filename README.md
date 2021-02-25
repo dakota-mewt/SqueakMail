@@ -7,11 +7,11 @@ Do you use humane (live) mouse traps? Do you hate checking them every day to mak
 For <$10 USD, you can build a SqueakMail to alert you when the trap has been triggered.
 
 # **Supplies:**
-1. an ESP32 or ESP8266 microcontroller ![esp8266](/images/esp8266.jpg)(~[$6](https://www.amazon.com/Wireless-NodeMcu-Internet-Development-ESP8266/dp/B0829L36V6))
-1. an Obstacle Avoidance Sensor ![ir_obstacle_sensor](/images/ir_obstacle_sensor.jpg)(~[$4](https://www.amazon.com/Infrared-Obstacle-Avoidance-Reflective-Photoelectric/dp/B081YR8NY1), down to <$1 if you buy in a multipack)
+1. an ESP32 or ESP8266 microcontroller ![esp8266](/images/esp8266.jpg)([$2](https://www.aliexpress.com/item/1005001524799794.html?spm=a2g0o.productlist.0.0.2d5c10c5XVeQ1X&algo_pvid=27dfe2c3-b18b-48c7-9255-bcdc75d8ec68&algo_expid=27dfe2c3-b18b-48c7-9255-bcdc75d8ec68-4&btsid=0bb0622a16142797264324161e35ca&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
+1. an Obstacle Avoidance Sensor ![ir_obstacle_sensor](/images/ir_obstacle_sensor.jpg)([<$1](https://www.aliexpress.com/item/32321964595.html?spm=a2g0o.productlist.0.0.317125f0a5p6b0&algo_pvid=cf8b6d8e-f912-471d-8374-b11588eef43e&algo_expid=cf8b6d8e-f912-471d-8374-b11588eef43e-1&btsid=0bb0623e16142798477723644e5109&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
 
 *Mouse Trap itself*
-* Reusable humane / live mouse trap ![mouse_trap](/images/mouse_trap.jpg)(~[$6](https://www.amazon.com/dp/B08219DSXP))
+* Reusable humane / live mouse trap ![mouse_trap](/images/mouse_trap.jpg)([$4](https://www.aliexpress.com/item/1005001507229211.html?spm=a2g0o.detail.1000014.21.6d111356bJVtu2&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.33416.214471.0&scm_id=1007.33416.214471.0&scm-url=1007.33416.214471.0&pvid=51ec295b-4ccf-41ad-9f45-dba954138126&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.33416.214471.0,pvid:51ec295b-4ccf-41ad-9f45-dba954138126,tpp_buckets:668%230%23131923%2364_668%23888%233325%238_23416%230%23214471%2313_23416%234721%2321967%23614_23416%234722%2321972%232_668%232846%238110%231995_668%232717%237558%23137_668%231000022185%231000066058%230_668%233422%2315392%23408_4452%230%23214000%230_4452%233474%2315675%23345_4452%234862%2324463%23570_4452%233098%239624%23905_4452%235108%2323442%23313_4452%233564%2316062%23206))
   * There are many sellers for this same style of traps
   * SqueakMail's enclosure makes use of the holes on the top of the traps. Some variations don't include those holes. If you have them you can either drill holes or modify the 3D printed enclosure accordingly
 
