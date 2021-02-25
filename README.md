@@ -4,7 +4,7 @@
 
 Do you use humane (live) mouse traps? Do you hate checking them every day to make sure that a critter isn't dying of thirst/hunger?
 
-For <$10 USD, you can build a SqueakMail to alert you when the trap has been triggered.
+For <$3 USD, you can build a SqueakMail to alert you when the trap has been triggered.
 
 # **Supplies:**
 1. an ESP32 or ESP8266 microcontroller ![esp8266](/images/esp8266.jpg)([$2](https://www.aliexpress.com/item/1005001524799794.html?spm=a2g0o.productlist.0.0.2d5c10c5XVeQ1X&algo_pvid=27dfe2c3-b18b-48c7-9255-bcdc75d8ec68&algo_expid=27dfe2c3-b18b-48c7-9255-bcdc75d8ec68-4&btsid=0bb0622a16142797264324161e35ca&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
