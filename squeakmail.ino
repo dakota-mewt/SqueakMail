@@ -1,12 +1,13 @@
 
 #include <WiFi.h>
 #include <HTTPClient.h>
-
-const char* ssid = "Ginger5";
-const char* password = "yankees1";
-const char* serverName = "https://maker.ifttt.com/trigger/Mouse_Trapped/with/key/bAnUYxd-W1NSR8wYVt0uI4";
+//EDIT THESE VARIABLES/////
+const char* ssid = "TBD";  //Replace TBD with your Wifi SSID
+const char* password = "TBD"; //Replace TBD with your Wifi password
+const char* serverName = "TBD"; //Replace TBD with your IFTTT API Key
+unsigned long timerDelay = 30000;  //how often you get emails once a mouse has been trapped.  30000 = 30 seconds
+///////////////////////////
 unsigned long lastTime = 0;
-unsigned long timerDelay = 30000;
 unsigned long trapTime = 0;
 bool mouseTrapped = false;
 
