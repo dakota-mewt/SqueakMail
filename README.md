@@ -1,5 +1,6 @@
 # SqueakMail
 ![squeakmail](/images/SqueakMail.png)
+![squeakmail_demo](/images/squeakmail_demo.gif)
 
 Do you use humane (live) mouse traps? Do you hate checking them every day to make sure that a critter isn't dying of thirst/hunger?
 
@@ -50,9 +51,6 @@ Pseudocode logic:
 * When it detects that the sensor has been triggered (door blocks the sensor because it's been closed)
   * Starts a second timer for how long it's been since the mouse has been trapped
   * Post to IFTTT, you will get an email "Trap has been running for <Trap Timer>. Mouse has been trapped for <Mouse Timer>
-
-# Video Demonstration
-![squeakmail_demo](/images/squeakmail_demo.gif)
 
 # How you can support Mewt
 <details>
